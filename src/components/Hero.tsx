@@ -87,7 +87,7 @@ const Hero: React.FC = () => {
                 <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 animate-pulse-slow"></div>
                 <div className="absolute overflow-hidden transition-transform duration-500 transform bg-white rounded-full shadow-2xl inset-2 dark:bg-gray-800 hover:scale-105">
                   <img
-                    src="../../public/images/vsr_img.jpg"
+                    src="/images/vsr_img.jpg"
                     alt="vsr"
                     className="object-cover w-full h-full transform scale-150 -translate-x-4 translate-y-12"
                   />

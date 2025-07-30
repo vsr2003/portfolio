@@ -20,7 +20,7 @@ const Projects: React.FC = () => {
       title: "E-Waste Management Platform",
       description: "Full-stack e-waste management solution with admin dashboard",
       longDescription: "Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Tailwind CSS for styling, this project features JWT-based authentication and integration with the TomTom Maps API. State management is handled using Redux Toolkit, and navigation is implemented with React Router. Additionally, an Admin Dashboard and a CMS were developed to efficiently manage products.",
-      image: "../../public/images/project1.png",
+      image: "/images/project1.png",
       technologies: ["React", "Node.js", "MongoDB", "Express.js", "Maps API", "Redux", "Tailwind CSS"],
       liveUrl: "https://ecogeek.netlify.app/",
       githubUrl: "https://github.com/vsr2003/EWASTE",
